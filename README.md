@@ -83,12 +83,12 @@ Watch comprehensive tutorials on the **[Hesperus YouTube Channel](https://www.yo
 
 | Tutorial | Language | Status |
 |----------|----------|--------|
-| BPE Fundamentals & Unicode/UTF-8 | English | Coming Soon |
-| Advanced BPE Implementation | English | Coming Soon |
-| GPT-Style Tokenization | English | Coming Soon |
-| [BPE Temelleri & Unicode/UTF-8](https://youtu.be/7-4xFrDPBdA) | Turkish | Available |
-| Gelişmiş BPE Uygulaması | Turkish | Coming Soon |
-| GPT Tarzı Tokenizasyon | Turkish | Coming Soon |
+| Tokenizer -1 \| Byte Pair Encoding Algorithm (Fundamentals) | English | Coming Soon |
+| Tokenizer -2 \| Byte Pair Encoding Algorithm (Advanced) | English | Coming Soon |
+| Tokenizer -3 \| Byte Pair Encoding Algorithm (Expert) | English | Coming Soon |
+| [Tokenizer -1 \| Byte Pair Encoding Algoritması (Temeller)](https://youtu.be/7-4xFrDPBdA) | Turkish | Available |
+| Tokenizer -2 \| Byte Pair Encoding Algoritması (Gelişmiş) | Turkish | Coming Soon |
+| Tokenizer -3 \| Byte Pair Encoding Algoritması (Uzman) | Turkish | Coming Soon |
 
 ### **📓 Jupyter Notebooks**
 
