@@ -25,7 +25,7 @@
 
 **English & Turkish Video Tutorials Coming Soon!**
 
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCyour-channel-id?label=Hesperus&style=social&logo=youtube)](https://www.youtube.com/@hsperus)
+[Subscribe to Hesperus on YouTube](https://www.youtube.com/@hsperus?sub_confirmation=1)
 
 ---
 
@@ -86,7 +86,7 @@ Watch comprehensive tutorials on the **[Hesperus YouTube Channel](https://www.yo
 | BPE Fundamentals & Unicode/UTF-8 | English | Coming Soon |
 | Advanced BPE Implementation | English | Coming Soon |
 | GPT-Style Tokenization | English | Coming Soon |
-| BPE Temelleri & Unicode/UTF-8 | Turkish | Coming Soon |
+| [BPE Temelleri & Unicode/UTF-8](https://youtu.be/7-4xFrDPBdA) | Turkish | Available |
 | Gelişmiş BPE Uygulaması | Turkish | Coming Soon |
 | GPT Tarzı Tokenizasyon | Turkish | Coming Soon |
 
