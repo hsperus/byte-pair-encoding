@@ -87,7 +87,7 @@ Watch comprehensive tutorials on the **[Hesperus YouTube Channel](https://www.yo
 | Tokenizer -2 \| Byte Pair Encoding Algorithm (Advanced) | English | Coming Soon |
 | Tokenizer -3 \| Byte Pair Encoding Algorithm (Expert) | English | Coming Soon |
 | [Tokenizer -1 \| Byte Pair Encoding Algoritması (Temeller)](https://youtu.be/7-4xFrDPBdA) | Turkish | Available |
-| Tokenizer -2 \| Byte Pair Encoding Algoritması (Gelişmiş) | Turkish | Coming Soon |
+| [Tokenizer -2 \| Byte Pair Encoding Algoritması (Gelişmiş)](https://www.youtube.com/watch?v=jA9djObiCds) | Turkish | Available |
 | Tokenizer -3 \| Byte Pair Encoding Algoritması (Uzman) | Turkish | Coming Soon |
 
 ### **📓 Jupyter Notebooks**
